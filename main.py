@@ -15,13 +15,13 @@ while True:
     case 2:
       res.run()
     case 3:
-      cl.writeup()
+      cl.run()
     case 4:
-		ipq.questions()
+		ipq.run()
 	case 5:
-		tas.tas()		
+		tas.run()		
 	case 6:
-		bl.language()
+		tas.run()
 	case 7:
 		break
 		
