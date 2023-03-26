@@ -1,6 +1,9 @@
 import aboutInterview as ai
 import Resume as res
-impirt coverletter as cl
+import coverletter as cl
+import ipq as ipq
+import tas as tas
+
 print("Welcome to interview buddy")
 print("How can we assist you?")
 while True:
@@ -14,4 +17,11 @@ while True:
     case 3:
       cl.writeup()
     case 4:
+		ipq.questions()
+	case 5:
+		tas.tas()		
+	case 6:
+		bl.language()
+	case 7:
+		break
 		
