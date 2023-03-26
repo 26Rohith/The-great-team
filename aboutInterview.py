@@ -1,4 +1,3 @@
-
 def about():
     with open("content.txt",'r') as con:
         content=con.read()
