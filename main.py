@@ -13,7 +13,7 @@ while True:
     case 1:
       ai.about()
     case 2:
-      res.resume()
+      res.run()
     case 3:
       cl.writeup()
     case 4:
